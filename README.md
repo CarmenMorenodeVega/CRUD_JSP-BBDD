@@ -5,36 +5,35 @@ Se requiere realizar la gestión de los niños y catequistas de los tres ciclos 
 
 
 # PÁGINA PRINCIPAL
-![Bienvenida]
-https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/pagPrincipal.JPG
+![Bienvenida](Imagenes/pagPrincipal.JPG)
 
 
 # MENÚ PRINCIPAL
-![Menú](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menuPrincipal.JPEG)
+![Menú](Imagenes/menuPrincipal.JPEG)
 
 
 # MENORES EN FORMACIÓN CATEQUÉTICA
- ![Menores](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menores.JPEG)
+ ![Menores](Imagenes/menores.JPEG)
 
 Modficar datos de los menores:
    
-   ![ModificarMenores](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/modificaMenor.JPEG)
+   ![ModificarMenores](Imagenes/modificaMenor.JPEG)
 
 
 # CATEQUISTAS
- ![Catequistas](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/catequistas.JPEG)
+ ![Catequistas](Imagenes/catequistas.JPEG)
 
 Modficar datos de los catequistas:
    
-   ![ModificarCatequistas](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/modificaCatequista.JPEG)
+   ![ModificarCatequistas](Imagenes/modificaCatequista.JPEG)
 
 
 # CICLOS
- ![MenuPrincipalciclos](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/ciclos.JPEG)
+ ![MenuPrincipalciclos](Imagenes/ciclos.JPEG)
  
 
 # CATEQUISTAS POR CICLO
- ![Catequistasciclo1](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/catequistasCiclo1.JPEG)
+ ![Catequistasciclo1](Imagenes/catequistasCiclo1.JPEG)
 
 # MENORES POR CICLO
  ![Menoresciclo1](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menoresCiclo1.JPEG)
@@ -53,8 +52,8 @@ Modficar datos de los catequistas:
    A continuación, se incluye el diagrama entidad relacion de la base de datos creada para la realizacion de esta
    aplicacion crud:
    
-![Base de Datos](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/BbDd1.JPEG)
+![Base de Datos](Imagenes/BbDd1.JPEG)
 
-![Base de Datos](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/BbDd3.JPEG)
+![Base de Datos](Imagenes/BbDd3.JPEG)
 
 
