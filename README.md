@@ -1,18 +1,19 @@
 # CRUD_JSP-BBDD
 
 Gestion de catequesis de Colmenarejo. 
-Se requiere realizar la gestiÛn de los niÒos y catequistas de los tres ciclos de preparaciÛn para recibir los sacramentos de iniciaciÛn cristiana en el n˙cleo de Colmenarejo (capilla Virgen de F·tima) que forma parte de la parroquia del Carmen de Campanillas.
+Se requiere realizar la gesti√≥n de los ni√±os y catequistas de los tres ciclos de preparaci√≥n para recibir los sacramentos de iniciaci√≥n cristiana en el n√∫cleo de Colmenarejo (capilla Virgen de F√°tima) que forma parte de la parroquia del Carmen de Campanillas.
 
 
-# P¡GINA PRINCIPAL
-![Bienvenida](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/Imagenes/pagPrincipal.JPEG)
+# P√ÅGINA PRINCIPAL
+![Bienvenida]
+https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/pagPrincipal.JPG
 
 
-# MEN⁄ PRINCIPAL
-![Men˙](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menuPrincipal.JPEG)
+# MEN√ö PRINCIPAL
+![Men√∫](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menuPrincipal.JPEG)
 
 
-# MENORES EN FORMACI”N CATEQU…TICA
+# MENORES EN FORMACI√ìN CATEQU√âTICA
  ![Menores](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menores.JPEG)
 
 Modficar datos de los menores:
@@ -49,7 +50,7 @@ Modficar datos de los catequistas:
 
 # BASE DE DATOS
 
-   A continuaciÛn, se incluye el diagrama entidad relacion de la base de datos creada para la realizacion de esta
+   A continuaci√≥n, se incluye el diagrama entidad relacion de la base de datos creada para la realizacion de esta
    aplicacion crud:
    
 ![Base de Datos](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/BbDd1.JPEG)
