@@ -36,15 +36,15 @@ Modficar datos de los catequistas:
  ![Catequistasciclo1](Imagenes/catequistasCiclo1.JPEG)
 
 # MENORES POR CICLO
- ![Menoresciclo1](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menoresCiclo1.JPEG)
+ ![Menoresciclo1](Imagenes/menoresCiclo1.JPEG)
 
-![Catequistasciclo2](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/catequistasCiclo2.JPEG)
+![Catequistasciclo2](Imagenes/catequistasCiclo2.JPEG)
 
-![Menoresciclo2](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menoresCiclo2.JPEG)
+![Menoresciclo2](Imagenes/menoresCiclo2.JPEG)
 
-![Catequistasciclo3](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/catequistasCiclo3.JPEG)
+![Catequistasciclo3](Imagenes/catequistasCiclo3.JPEG)
  
-![Menoresciclo3](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menoresCiclo2.JPEG)
+![Menoresciclo3](Imagenes/menoresCiclo2.JPEG)
  
 
 # BASE DE DATOS
@@ -53,7 +53,7 @@ Modficar datos de los catequistas:
    aplicacion crud:
    
 ![Base de Datos](Imagenes/BbDd1.JPEG)
-
+![Base de Datos](Imagenes/BbDd2.JPEG)
 ![Base de Datos](Imagenes/BbDd3.JPEG)
-
+![Base de Datos](Imagenes/BbDd4.JPEG)
 
