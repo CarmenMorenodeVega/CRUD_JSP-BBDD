@@ -9,42 +9,42 @@ Se requiere realizar la gestión de los niños y catequistas de los tres ciclos 
 
 
 # MENÚ PRINCIPAL
-![Menú](Imagenes/menuPrincipal.JPEG)
+![Menu](Imagenes/menuPrincipal.JPG)
 
 
 # MENORES EN FORMACIÓN CATEQUÉTICA
- ![Menores](Imagenes/menores.JPEG)
+ ![Menores](Imagenes/menores.JPG)
 
 Modficar datos de los menores:
    
-   ![ModificarMenores](Imagenes/modificaMenor.JPEG)
+   ![ModificarMenores](Imagenes/modificaMenor.JPG)
 
 
 # CATEQUISTAS
- ![Catequistas](Imagenes/catequistas.JPEG)
+ ![Catequistas](Imagenes/catequistas.JPG)
 
 Modficar datos de los catequistas:
    
-   ![ModificarCatequistas](Imagenes/modificaCatequista.JPEG)
+   ![ModificarCatequistas](Imagenes/modificaCatequista.JPG)
 
 
 # CICLOS
- ![MenuPrincipalciclos](Imagenes/ciclos.JPEG)
+ ![MenuPrincipalciclos](Imagenes/ciclos.JPG)
  
 
 # CATEQUISTAS POR CICLO
- ![Catequistasciclo1](Imagenes/catequistasCiclo1.JPEG)
+ ![Catequistasciclo1](Imagenes/catequistasCiclo1.JPG)
 
 # MENORES POR CICLO
- ![Menoresciclo1](Imagenes/menoresCiclo1.JPEG)
+ ![Menoresciclo1](Imagenes/menoresCiclo1.JPG)
 
-![Catequistasciclo2](Imagenes/catequistasCiclo2.JPEG)
+![Catequistasciclo2](Imagenes/catequistasCiclo2.JPG)
 
-![Menoresciclo2](Imagenes/menoresCiclo2.JPEG)
+![Menoresciclo2](Imagenes/menoresCiclo2.JPG)
 
-![Catequistasciclo3](Imagenes/catequistasCiclo3.JPEG)
+![Catequistasciclo3](Imagenes/catequistasCiclo3.JPG)
  
-![Menoresciclo3](Imagenes/menoresCiclo2.JPEG)
+![Menoresciclo3](Imagenes/menoresCiclo2.JPG)
  
 
 # BASE DE DATOS
@@ -52,8 +52,8 @@ Modficar datos de los catequistas:
    A continuación, se incluye el diagrama entidad relacion de la base de datos creada para la realizacion de esta
    aplicacion crud:
    
-![Base de Datos](Imagenes/BbDd1.JPEG)
-![Base de Datos](Imagenes/BbDd2.JPEG)
-![Base de Datos](Imagenes/BbDd3.JPEG)
-![Base de Datos](Imagenes/BbDd4.JPEG)
+![Base de Datos](Imagenes/BbDd1.JPG)
+![Base de Datos](Imagenes/BbDd2.JPG)
+![Base de Datos](Imagenes/BbDd3.JPG)
+![Base de Datos](Imagenes/BbDd4.JPG)
 
