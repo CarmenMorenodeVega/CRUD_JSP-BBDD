@@ -1,28 +1,59 @@
-# CRUD_JSP
+# CRUD_JSP-BBDD
 
-###CRUD con JSP Y BBDD. Acceso a bases de datos desde Java 
-
-Autor: Carmen Moreno de Vega.
-
-###TemÃ¡tica: Comunidad parroquial de Campanillas.
-
-En este ejercicio se crearÃ¡ una aplicaciÃ³n tipo CRUD â€“ alta, listado, modificaciÃ³n y borrado â€“ sobre la informaciÃ³n almacenada en una base de datos MySQL respecto a los niÃ±os que pertenecen a los distintos grupos de catequesis y sus tutores legales, asi como  de los catequistas de los distintos grupos.
-
-Este proyecto se centra en el grupo de catequesis de Colmenarejo, uno de los tres nÃºcleos que forman el proceso de catequesis en Campanillas, el cual serÃ¡ ampliado mÃ¡s adelante.
-
-Consta de una pÃ¡gina principal que da acceso al listado de menores para su tratamiento:
-
-* alta
-* baja
-* modificaciÃ³n
+Gestion de catequesis de Colmenarejo. 
+Se requiere realizar la gestión de los niños y catequistas de los tres ciclos de preparación para recibir los sacramentos de iniciación cristiana en el núcleo de Colmenarejo (capilla Virgen de Fátima) que forma parte de la parroquia del Carmen de Campanillas.
 
 
+# PÁGINA PRINCIPAL
+![Bienvenida](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/Imagenes/pagPrincipal.JPEG)
 
-![Captura0](http://paginaPrincipal.com)
 
-![Captura1](http://paginaListado.com)
+# MENÚ PRINCIPAL
+![Menú](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menuPrincipal.JPEG)
 
-![Captura2](http://altaMenor.com)
 
+# MENORES EN FORMACIÓN CATEQUÉTICA
+ ![Menores](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menores.JPEG)
+
+Modficar datos de los menores:
+   
+   ![ModificarMenores](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/modificaMenor.JPEG)
+
+
+# CATEQUISTAS
+ ![Catequistas](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/catequistas.JPEG)
+
+Modficar datos de los catequistas:
+   
+   ![ModificarCatequistas](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/modificaCatequista.JPEG)
+
+
+# CICLOS
+ ![MenuPrincipalciclos](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/ciclos.JPEG)
+ 
+
+# CATEQUISTAS POR CICLO
+ ![Catequistasciclo1](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/catequistasCiclo1.JPEG)
+
+# MENORES POR CICLO
+ ![Menoresciclo1](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menoresCiclo1.JPEG)
+
+![Catequistasciclo2](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/catequistasCiclo2.JPEG)
+
+![Menoresciclo2](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menoresCiclo2.JPEG)
+
+![Catequistasciclo3](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/catequistasCiclo3.JPEG)
+ 
+![Menoresciclo3](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/menoresCiclo2.JPEG)
+ 
+
+# BASE DE DATOS
+
+   A continuación, se incluye el diagrama entidad relacion de la base de datos creada para la realizacion de esta
+   aplicacion crud:
+   
+![Base de Datos](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/BbDd1.JPEG)
+
+![Base de Datos](https://github.com/CarmenMorenodeVega/CRUD_JSP-BBDD/blob/master/Imagenes/BbDd3.JPEG)
 
 

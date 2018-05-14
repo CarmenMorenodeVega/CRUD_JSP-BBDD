@@ -1,0 +1,68 @@
+   body {font-family:Arial,Verdana, sans-serif; 
+         background-color: rgb(246, 235, 204);}
+   #wrapper {width:1330px;
+             margin:0 auto;}
+   #header {height:270px;
+            margin-bottom:20px;
+            box-shadow: 10px 10px 2px rgb(0,0,128);}
+   #titulo {position:relative;
+            top:50px;
+            left:50px;
+            font-size:40px;
+            font-weight:bold;
+	    text-shadow: 7px 7px 2px rgb(0,0,128); 
+            color:white;}
+  
+   #nav  {width:175px;
+          height:550px;
+          background-color:rgb(246, 235, 204);
+          float:left;
+          border-right: 5px solid rgb(0,0,128);
+          text-align:center;      
+          
+	  font-weight:bold;
+          margin-bottom:20px;
+          margin-right: 20px;
+          box-shadow: 10px 10px 2px rgb(0,0,128);} 
+
+   #nav a {color: rgb(0,0,128); 
+           text-decoration: none;} 
+
+   #nav a:hover {color:#fff;} 
+             
+   #main {width:1100px;
+          height:550px;
+                   float:left;
+          padding:0 15px;
+          color: rgb(140,240,60);
+          font-size:19px;
+	  text-align:center;
+          margin-bottom:20px;
+          box-shadow : 0px 0px 2px rgb(0,0,128);}
+ 
+   #main h2 {text-align:center;
+             text-shadow: 2px 2px 1px rgb(0,60,70);
+	     color:rgb (0,0,128);} 
+
+   #main p {text-indent:30px;} 
+
+   #main img.izq {float:left;
+		  margin:5px;}
+ 
+   #main img.dcha {float:right;
+                  margin:5px; 
+		  margin-bottom:20px;
+		  padding-bottom:5px} 
+
+   /* For generic page styles. Not for sliders. */
+
+
+                                
+   #footer{clear:both;
+   	       /* height:40px;*/
+           background-color:rgb(0,60,70);
+           font-size:80%;
+	   color:white;
+           font-weight:bold;
+           padding:15px;
+           box-shadow: 10px 10px 2px rgb(0,0,128);}            
